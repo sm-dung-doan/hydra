@@ -14,7 +14,7 @@
     "@openapitools/openapi-generator-cli": "^2.24.0"
   },
   "devDependencies": {
-    "cypress": "9.7.0",
+    "cypress": "13.0.0",
     "dayjs": "1.11.18",
     "doctoc": "^2.2.1",
     "jsonwebtoken": "8.5.1",
